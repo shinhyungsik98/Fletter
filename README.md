@@ -173,4 +173,3 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=FCF6BD&height=150&section=footer" />
-"# FLETTER-APP" 
