@@ -4,7 +4,7 @@
 # FLETTER APP
 ### 인공지능을 활용한 이커머스 서비스 개발
 
-[프로젝트 기술서](https://docs.google.com/presentation/d/1Hjp7XCUMIhym937i4X85ireXrZpCJRmZErmB6bO8PHI/edit#slide=id.g2ecd2bcd2c6_0_113)
+[프로젝트 기술서](https://docs.google.com/presentation/d/12Z72YNfM7LgfiuEboPaFI-FJV07Fn793i1zjiRk4sn8/edit#slide=id.g2ecd2bcd2c6_0_113)
 | [앱 구현 영상](https://www.youtube.com/watch?v=twt-AMg5pG8)
 | [Figma 화면 기획서](https://www.figma.com/design/sZIyaeA257cko90JTBealI/FLOWER-APP?node-id=545-2765&t=Zvjg9QKV2RNZPhYv-1) | [API 명세서 (Postman)](https://documenter.getpostman.com/view/35043308/2sA3e1CATt)
 
